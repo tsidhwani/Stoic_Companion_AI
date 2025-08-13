@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env
+backend/.env
+
+# macOS
+.DS_Store
+
+# Xcode / Swift
+DerivedData/
+*.xcworkspace/
+*.xcodeproj/project.xcworkspace/
+xcuserdata/
+.idea/
+*.swp 
